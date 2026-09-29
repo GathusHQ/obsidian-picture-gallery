@@ -1,0 +1,10 @@
+{
+  "id": "external-image-loader",
+  "name": "External Image Loader",
+  "version": "1.0.0",
+  "minAppVersion": "1.0.0",
+  "description": "Safely load images from external folders for use in DataviewJS.",
+  "author": "GathusHQ",
+  "authorUrl": "https://github.com/GathusHQ",
+  "isDesktopOnly": true
+}
