@@ -1,7 +1,8 @@
 ## 📷 **Obsidian Picture Gallery**
 
 <p align="center">
-  <a href="https://github.com/GathusHQ/obsidian-picture-gallery/releases"><img src="https://img.shields.io/github/downloads/GathusHQ/obsidian-picture-gallery/total?style=for-the-badge&color=blue" /></a> <a href="https://github.com/GathusHQ/obsidian-picture-gallery/releases"><img src="https://img.shields.io/github/v/release/GathusHQ/obsidian-picture-gallery?style=for-the-badge&color=gold" /></a>
+  <a href="https://github.com/GathusHQ/obsidian-picture-gallery/releases"><img src="https://img.shields.io/github/downloads/GathusHQ/obsidian-picture-gallery/v1.0/total?style=for-the-badge&color=blue" /></a>
+  <a href="https://github.com/GathusHQ/obsidian-picture-gallery/releases"><img src="https://img.shields.io/github/v/release/GathusHQ/obsidian-picture-gallery?style=for-the-badge&color=gold" /></a>
 </p>
 
 A clean, simple dashboard interface for your local Pictures folder
